@@ -14,7 +14,7 @@
 - ⚡ Fun fact: Open to talk
 - 📝 I regularly write articles on [https://danukadilshan.blogspot.com/](https://danukadilshan.blogspot.com/)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=danuka98&&show_icons=true&theme=tokyonight">
+<p><img align="center" src = "https://github-readme-stats.vercel.app/api?username=danuka98&&show_icons=true&theme=tokyonight"></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
